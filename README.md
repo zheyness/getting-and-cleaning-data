@@ -1,15 +1,15 @@
-# getting-and-cleaning-data
+### getting-and-cleaning-data
 A project under Getting and Cleaning Data module.
 
 Jo Hanna Lindsey Serato
 
-# Assignment Submission Files
+### Assignment Submission Files
 1. run_analysis.R
 2. README.md
 3. CodeBook.md
 4. tidydata.txt
 
-# Instructions
+### Instructions
 1. Checkout code using the link: 
 https://github.com/zheyness/getting-and-cleaning-data/blob/master/run_analysis.R
 2. Download the data set from, 
