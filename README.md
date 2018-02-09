@@ -1,5 +1,6 @@
 # getting-and-cleaning-data
 A project under Getting and Cleaning Data module.
+
 Jo Hanna Lindsey Serato
 
 # Assignment Submission Files
