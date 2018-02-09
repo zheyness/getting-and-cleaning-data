@@ -1,6 +1,6 @@
 ### Project Requirements
 
-A script that doesthe following:
+A script that does the following:
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
 3. Uses descriptive activity names to name the activities in the data set
@@ -9,18 +9,23 @@ A script that doesthe following:
 
 ### Variables
 * *subject_train, x_train, y_train, subject_text, x_test, y_test*
+
 tables containing data from the downloaded files
 
 * *subject_data, x_data, y_data, all_data*
+
 tables containing merged training and testing datasets
 
 * *features, activities*
+
 lists provided as labels from the downloaded files
 
 * *mean_and_sd*
+
 selected data which only contains means and standard deviations for each measurements
 
 * *tidy_data*
+
 independent tidy dataset with the average of each variable for each activity and each subject
 
 ### Code Flow
